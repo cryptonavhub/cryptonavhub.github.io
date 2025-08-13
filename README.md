@@ -10,26 +10,20 @@
 
 ## 🧭 导航
 
-### 📈 核心工具与数据 [中心化交易所](#中心化交易所) |  [数据分析](#数据分析) | [币种资讯](#币种资讯) | [巨鲸追踪](#巨鲸追踪) | [空投任务与投研工具](#空投任务与投研工具) | [稳定币与RWA资源](#稳定币与rwa资源)
+### 📈 核心工具与数据
+ [中心化交易所](#中心化交易所) |  [数据分析](#数据分析) | [币种资讯](#币种资讯) | [巨鲸追踪](#巨鲸追踪) | [空投任务与投研工具](#空投任务与投研工具) | [稳定币与RWA资源](#稳定币与rwa资源)
 
-### 📰 行业资讯与社群 | [新闻媒体](#新闻媒体) | [重要Twitter账号](#重要twitter账号) | [中文电报群](#中文电报群) | [英文电报群](#英文电报群)
+### 📰 行业资讯与社群 
+ [新闻媒体](#新闻媒体) | [重要Twitter账号](#重要twitter账号) | [中文电报群](#中文电报群) | [英文电报群](#英文电报群)
 
 ### 🎨 Web3 应用生态
-- [NFT工具](#nft工具)  
-- [GameFi与元宇宙](#gamefi与元宇宙资源)  
-- [DAO工具](#dao工具)  
-- [DeFi工具](#defi工具)
+[NFT工具](#nft工具) | [GameFi与元宇宙](#gamefi与元宇宙资源) | [DAO工具](#dao工具) | [DeFi工具](#defi工具)
 
 ### 🔗 网络与协议
-- [跨链技术](#跨链技术)  
-- [开发者工具与技术资源](#开发者工具与技术资源)  
-- [安全审计](#安全审计)
+[跨链技术](#跨链技术) | [开发者工具与技术资源](#开发者工具与技术资源) | [安全审计](#安全审计)
 
 ### 📚 成长与保障
-- [学习材料](#学习材料)  
-- [社区活动](#社区活动)  
-- [加密钱包](#加密钱包)  
-- [顶级投资机构](#顶级投资机构)
+[学习材料](#学习材料) | [社区活动](#社区活动) | [加密钱包](#加密钱包) | [顶级投资机构](#顶级投资机构)
 
 ---
 
@@ -81,12 +75,10 @@
 ## 🌐 VPN与虚拟号码
 
 ### VPN
-1. **[Shadowsocks](https://secure.shadowsocks.au/aff.php?aff=29073)**  
-   - 付费VPN，最低配置年费约20美元，支持多平台，网络稳定，适合观看YouTube高清视频或翻墙访问交易所。
+1. **[Shadowsocks](https://secure.shadowsocks.au/aff.php?aff=29073)**  付费VPN，最低配置年费约20美元，支持多平台，网络稳定，适合观看YouTube高清视频或翻墙访问交易所。
 
 ### 虚拟号码
-1. **[SMS-Activate](https://sms-activate.org/)**  
-   - 提供180+国家虚拟手机号，接收一次性短信验证码，适用于注册社交账号或验证在线服务。支持支付宝充值，价格低廉。
+1. **[SMS-Activate](https://sms-activate.org/)**  提供180+国家虚拟手机号，接收一次性短信验证码，适用于注册社交账号或验证在线服务。支持支付宝充值，价格低廉。
 
 ---
 
@@ -104,32 +96,23 @@
 
 🔍 **用途**：提供实时行情、币种资料、社区热度、项目评分、上架交易所情况与链上指标，是投研、筛选潜力币、监控市场情绪的重要工具。
 
-1. **[非小号](https://www.feixiaohao.co/)**  
-   - 国内最广泛的加密行情平台，提供币种信息、交易所资料、概念板块、K线图与相关新闻，适合中文用户快速查找。  
+1. **[非小号](https://www.feixiaohao.co/)**  国内最广泛的加密行情平台，提供币种信息、交易所资料、概念板块、K线图与相关新闻，适合中文用户快速查找。  
 
-2. **[CoinMarketCap (CMC)](https://coinmarketcap.com/zh/)**  
-   - 全球最权威的币种数据网站，提供实时价格、市值、成交量、流通量、历史走势、上架交易所等，多数项目上大所前会在CMC展示。  
+2. **[CoinMarketCap (CMC)](https://coinmarketcap.com/zh/)**  全球最权威的币种数据网站，提供实时价格、市值、成交量、流通量、历史走势、上架交易所等，多数项目上大所前会在CMC展示。  
 
-3. **[CoinGecko](https://www.coingecko.com/)**  
-   - 与CMC齐名，评分机制更注重社区活跃度、社交媒体热度与开发进展，支持ICO评分与DeFi专页。  
+3. **[CoinGecko](https://www.coingecko.com/)**  与CMC齐名，评分机制更注重社区活跃度、社交媒体热度与开发进展，支持ICO评分与DeFi专页。  
 
-4. **[TokenInsight](https://tokeninsight.com/zh)**  
-   - 专注项目评级与分析，提供基本面评分、风险等级、发展进度与资金支持情况，适合投研人员筛选早期项目与避坑。  
+4. **[TokenInsight](https://tokeninsight.com/zh)**  专注项目评级与分析，提供基本面评分、风险等级、发展进度与资金支持情况，适合投研人员筛选早期项目与避坑。  
 
-5. **[Messari](https://messari.io/)**  
-   - 专业加密研究平台，提供币种概览、分析文章、Tokenomics拆解与生态地图，Dashboard支持按公链、赛道筛选，适合中高阶投资者。  
+5. **[Messari](https://messari.io/)**  专业加密研究平台，提供币种概览、分析文章、Tokenomics拆解与生态地图，Dashboard支持按公链、赛道筛选，适合中高阶投资者。  
 
-6. **[CryptoRank](https://cryptorank.io/)**  
-   - 整合币种走势、IDO/IEO历史、融资轮次与流通解锁时间表，适合跟踪投资周期与潜在抛压，提供稀释市值与FDV排行等高级指标。  
+6. **[CryptoRank](https://cryptorank.io/)**  整合币种走势、IDO/IEO历史、融资轮次与流通解锁时间表，适合跟踪投资周期与潜在抛压，提供稀释市值与FDV排行等高级指标。  
 
-7. **[Coin98 Analytics](https://coin98.net/analytics)**  
-   - 提供DeFi、GameFi、Layer2等细分领域项目列表与对比视图，适合生态级投研，搭配Coin98 Wallet使用更方便。  
+7. **[Coin98 Analytics](https://coin98.net/analytics)**  提供DeFi、GameFi、Layer2等细分领域项目列表与对比视图，适合生态级投研，搭配Coin98 Wallet使用更方便。  
 
-8. **[LunarCrush](https://lunarcrush.com/)**  
-   - 聚合Twitter、Reddit、YouTube等社交数据，生成情绪评分与关注度排行，适合寻找社区活跃项目与热炒题材。  
+8. **[LunarCrush](https://lunarcrush.com/)**  聚合Twitter、Reddit、YouTube等社交数据，生成情绪评分与关注度排行，适合寻找社区活跃项目与热炒题材。  
 
-9. **[Santiment](https://app.santiment.net/)**  
-   - 专注链上数据与社交指标，提供交易量、地址变化、大户动向、开发活动等图表，适合中高级研究者。  
+9. **[Santiment](https://app.santiment.net/)**  专注链上数据与社交指标，提供交易量、地址变化、大户动向、开发活动等图表，适合中高级研究者。  
 
 📌 **建议**：  
 - **初学者**：结合CMC + CoinGecko快速了解币种全貌。  
@@ -311,20 +294,15 @@
 
 🔍 **什么是DAO**？去中心化自治组织（Decentralized Autonomous Organization），通过代币持有比例或投票机制实现社区治理，基于区块链运行。
 
-1. **[Snapshot](https://snapshot.org/#/)** & **[Tally](https://www.withtally.com/)**  
-   - 提供无Gas费用的链上治理投票平台，简化DAO决策。  
+1. **[Snapshot](https://snapshot.org/#/)** & **[Tally](https://www.withtally.com/)**  提供无Gas费用的链上治理投票平台，简化DAO决策。  
 
-2. **[Daomaster](https://www.daomasters.xyz/)**  
-   - 简化DAO创建、管理与成员互动的工具。  
+2. **[Daomaster](https://www.daomasters.xyz/)**  简化DAO创建、管理与成员互动的工具。  
 
-3. **[DeepDAO](https://deepdao.io/#/deepdao/dashboard)**  
-   - 提供DAO生态系统数据分析，包括治理、财务与成员活动。  
+3. **[DeepDAO](https://deepdao.io/#/deepdao/dashboard)**  提供DAO生态系统数据分析，包括治理、财务与成员活动。  
 
-4. **[Daomaker](https://daomaker.com/)**  
-   - 专注DAO孵化与启动，提供资金与策略支持。  
+4. **[Daomaker](https://daomaker.com/)**  专注DAO孵化与启动，提供资金与策略支持。  
 
-5. **[Daocentral](https://daocentral.com/)**  
-   - 促进DAO间协作与资源共享的平台。  
+5. **[Daocentral](https://daocentral.com/)**  促进DAO间协作与资源共享的平台。  
 
 ---
 
@@ -332,38 +310,27 @@
 
 🔍 **什么是DeFi**？去中心化金融（Decentralized Finance），基于区块链与智能合约，提供无需许可、透明的金融服务，包括交易、借贷、资产管理、稳定币等。
 
-1. **[Uniswap](https://uniswap.org/)**  
-   - 以太坊DEX龙头，支持ERC-20代币交易与流动性提供。  
+1. **[Uniswap](https://uniswap.org/)**  以太坊DEX龙头，支持ERC-20代币交易与流动性提供。  
 
-2. **[PancakeSwap](https://pancakeswap.finance/)**  
-   - 币安智能链DEX，提供交易、挖矿与彩票服务。  
+2. **[PancakeSwap](https://pancakeswap.finance/)**  币安智能链DEX，提供交易、挖矿与彩票服务。  
 
-3. **[dYdX](https://dydx.exchange/)**  
-   - 去中心化合约交易所，支持杠杆交易与永续合约。  
+3. **[dYdX](https://dydx.exchange/)**  去中心化合约交易所，支持杠杆交易与永续合约。  
 
-4. **[DEXtools](https://www.dextools.io/app/)**  
-   - 提供DEX实时数据与K线分析工具。  
+4. **[DEXtools](https://www.dextools.io/app/)**  提供DEX实时数据与K线分析工具。  
 
-5. **[DeFi Pulse](https://defipulse.com/)**  
-   - 追踪DeFi项目总锁定价值（TVL）与关键指标。  
+5. **[DeFi Pulse](https://defipulse.com/)**  追踪DeFi项目总锁定价值（TVL）与关键指标。  
 
-6. **[APY.top](https://apy.top/)**  
-   - 查看DeFi项目质押收益与收益率。  
+6. **[APY.top](https://apy.top/)**  查看DeFi项目质押收益与收益率。  
 
-7. **[Zapper](https://zapper.fi/)**  
-   - DeFi仪表板，管理投资与质押。  
+7. **[Zapper](https://zapper.fi/)**  DeFi仪表板，管理投资与质押。  
 
-8. **[Zerion](https://zerion.io/)**  
-   - 跟踪多链DeFi投资组合，界面友好。  
+8. **[Zerion](https://zerion.io/)**  跟踪多链DeFi投资组合，界面友好。  
 
-9. **[1inch](https://1inch.io/)**  
-   - DEX聚合器，优化交易路由，降低滑点。  
+9. **[1inch](https://1inch.io/)**  DEX聚合器，优化交易路由，降低滑点。  
 
-10. **[Compound](https://compound.finance/)**  
-    - 去中心化借贷平台，存入资产赚利息或借贷支付利息。  
+10. **[Compound](https://compound.finance/)**  去中心化借贷平台，存入资产赚利息或借贷支付利息。  
 
-11. **[Aave](https://aave.com/)**  
-    - 去中心化借贷平台，支持无抵押借贷与利率切换。  
+11. **[Aave](https://aave.com/)**  去中心化借贷平台，支持无抵押借贷与利率切换。  
 
 ---
 
@@ -371,47 +338,34 @@
 
 🔍 **什么是跨链**？跨链技术允许不同区块链网络间交换信息与资产，解决区块链孤岛问题，促进生态互联互通。
 
-1. **[Swft](https://www.swftc.info/)**  
-   - 支持多公链跨链交换，操作便捷。  
+1. **[Swft](https://www.swftc.info/)**  支持多公链跨链交换，操作便捷。  
 
-2. **[Crosschaintool](https://tools.defieye.io/bridge/)**  
-   - 提供跨链手续费计算，优化交易成本。  
+2. **[Crosschaintool](https://tools.defieye.io/bridge/)**  提供跨链手续费计算，优化交易成本。  
 
-3. **[Anyswap](https://anyswap.exchange/swap#/bridge)**  
-   - 去中心化跨链闪兑，支持多种币种。  
+3. **[Anyswap](https://anyswap.exchange/swap#/bridge)**  去中心化跨链闪兑，支持多种币种。  
 
-4. **[Polkadot](https://polkadot.network/)**  
-   - 连接多条区块链，形成统一网络，支持消息与价值交换。  
+4. **[Polkadot](https://polkadot.network/)**  连接多条区块链，形成统一网络，支持消息与价值交换。  
 
-5. **[Cosmos](https://cosmos.network/)**  
-   - “区块链互联网”，实现链间通信。  
+5. **[Cosmos](https://cosmos.network/)**  “区块链互联网”，实现链间通信。  
 
-6. **[ChainBridge](https://github.com/ChainSafe/ChainBridge)**  
-   - 可定制跨链桥，支持数据与资产双向流动。  
+6. **[ChainBridge](https://github.com/ChainSafe/ChainBridge)**  可定制跨链桥，支持数据与资产双向流动。  
 
-7. **[Wanchain](https://www.wanchain.org/)**  
-   - 去中心化金融基础设施，支持跨链智能合约。  
+7. **[Wanchain](https://www.wanchain.org/)**  去中心化金融基础设施，支持跨链智能合约。  
 
-8. **[Thorchain](https://thorchain.org/)**  
-   - 去中心化流动性协议，支持跨链交易，无需中心化交易所。  
+8. **[Thorchain](https://thorchain.org/)**  去中心化流动性协议，支持跨链交易，无需中心化交易所。  
 
 ### Layer-2与跨链桥
 🔍 **Layer-2**：构建于主链（如以太坊）之上的扩展解决方案，提升交易速度与降低费用。**跨链桥**：连接不同区块链，允许资产与数据流通。
 
-1. **[Arbitrum](https://arbitrum.io)**  
-   - 以太坊L2网络，支持丰富DApp生态。  
+1. **[Arbitrum](https://arbitrum.io)**  以太坊L2网络，支持丰富DApp生态。  
 
-2. **[Optimism](https://www.optimism.io)**  
-   - 高性能Rollup网络，交易成本低。  
+2. **[Optimism](https://www.optimism.io)**  高性能Rollup网络，交易成本低。  
 
-3. **[zkSync](https://zksync.io)**  
-   - 基于ZK-Rollup，兼顾效率与安全。  
+3. **[zkSync](https://zksync.io)**  基于ZK-Rollup，兼顾效率与安全。  
 
-4. **[LayerZero](https://layerzero.network)**  
-   - 通用消息传输协议，支持链间通信与资产桥接。  
+4. **[LayerZero](https://layerzero.network)**  通用消息传输协议，支持链间通信与资产桥接。  
 
-5. **[Wormhole](https://wormhole.com)**  
-   - 多链桥接协议，覆盖以太坊、Solana、BSC等。  
+5. **[Wormhole](https://wormhole.com)**  多链桥接协议，覆盖以太坊、Solana、BSC等。  
 
 ---
 
@@ -422,65 +376,47 @@
 - **元宇宙**：虚拟现实与区块链结合的沉浸式空间，支持资产交易、社交与虚拟经济。
 
 ### GameFi平台与工具
-1. **[DappRadar GameFi](https://dappradar.com/rankings/category/games)**  
-   - 聚合多链GameFi项目，提供活跃用户数与交易量数据。  
+1. **[DappRadar GameFi](https://dappradar.com/rankings/category/games)**  聚合多链GameFi项目，提供活跃用户数与交易量数据。  
 
-2. **[PlayToEarn.net](https://playtoearn.net/)**  
-   - 全球最大链游数据库，支持按区块链与盈利模式筛选。  
+2. **[PlayToEarn.net](https://playtoearn.net/)**  全球最大链游数据库，支持按区块链与盈利模式筛选。  
 
-3. **[Footprint Analytics](https://www.footprint.network/dashboard/gamefi)**  
-   - 提供GameFi项目TVL、DAU、留存率等数据看板。  
+3. **[Footprint Analytics](https://www.footprint.network/dashboard/gamefi)**  提供GameFi项目TVL、DAU、留存率等数据看板。  
 
-4. **[GameFi.org](https://gamefi.org/)**  
-   - GameFi项目孵化与IGO发售平台，涵盖链游发布与NFT市场。  
+4. **[GameFi.org](https://gamefi.org/)**  GameFi项目孵化与IGO发售平台，涵盖链游发布与NFT市场。  
 
-5. **[Avocado DAO](https://avocadodao.io/)**  
-   - 专注链游收益分成与社区运营，提供教育与指南。  
+5. **[Avocado DAO](https://avocadodao.io/)**  专注链游收益分成与社区运营，提供教育与指南。  
 
 ### 元宇宙平台与工具
-6. **[Decentraland](https://decentraland.org/)**  
-   - 以太坊虚拟世界，支持土地NFT交易与3D场景构建。  
+6. **[Decentraland](https://decentraland.org/)**  以太坊虚拟世界，支持土地NFT交易与3D场景构建。  
 
-7. **[The Sandbox](https://sandbox.game/)**  
-   - 元宇宙建设平台，拥有强大游戏编辑器与土地经济系统。  
+7. **[The Sandbox](https://sandbox.game/)**  元宇宙建设平台，拥有强大游戏编辑器与土地经济系统。  
 
-8. **[Somnium Space](https://somniumspace.com/)**  
-   - VR元宇宙，支持沉浸式体验与虚拟地产交易。  
+8. **[Somnium Space](https://somniumspace.com/)**  VR元宇宙，支持沉浸式体验与虚拟地产交易。  
 
-9. **[Spatial](https://www.spatial.io/)**  
-   - Web-based 3D虚拟空间，支持会议、艺术展览与NFT展示。  
+9. **[Spatial](https://www.spatial.io/)**  Web-based 3D虚拟空间，支持会议、艺术展览与NFT展示。  
 
-10. **[OnCyber](https://oncyber.io/)**  
-    - 高质量3D艺术展示空间，允许用户导入NFT并开放浏览。  
+10. **[OnCyber](https://oncyber.io/)**  高质量3D艺术展示空间，允许用户导入NFT并开放浏览。  
 
 ### 衍生工具
-11. **[Ready Player Me](https://readyplayer.me/)**  
-    - 通用虚拟形象创建工具，支持多个元宇宙平台。  
+11. **[Ready Player Me](https://readyplayer.me/)**  通用虚拟形象创建工具，支持多个元宇宙平台。  
 
-12. **[VoxelArchitect](https://www.voxelarchitects.com/)**  
-    - Sandbox官方推荐建筑师团队，支持定制虚拟地产与品牌空间。  
+12. **[VoxelArchitect](https://www.voxelarchitects.com/)**  Sandbox官方推荐建筑师团队，支持定制虚拟地产与品牌空间。  
 
-13. **[MetaCat World](https://www.metacat.world/)**  
-    - 中文GameFi聚合平台，提供链游资讯与收益管理工具。  
+13. **[MetaCat World](https://www.metacat.world/)**  中文GameFi聚合平台，提供链游资讯与收益管理工具。  
 
 ---
 
 ## 🛠️ 开发者工具与技术资源
 
-1. **[Hardhat](https://hardhat.org)**  
-   - 以太坊开发环境，支持合约编译、测试、部署与本地链模拟。  
+1. **[Hardhat](https://hardhat.org)**  以太坊开发环境，支持合约编译、测试、部署与本地链模拟。  
 
-2. **[Foundry](https://book.getfoundry.sh)**  
-   - 快速、模块化的智能合约开发框架，适合高性能需求。  
+2. **[Foundry](https://book.getfoundry.sh)**  快速、模块化的智能合约开发框架，适合高性能需求。  
 
-3. **[Alchemy](https://www.alchemy.com)**  
-   - Web3应用开发平台，提供多链RPC节点与监控工具。  
+3. **[Alchemy](https://www.alchemy.com)**  Web3应用开发平台，提供多链RPC节点与监控工具。  
 
-4. **[Infura](https://infura.io)**  
-   - 提供以太坊、IPFS、L2等基础设施的API网关服务。  
+4. **[Infura](https://infura.io)**  提供以太坊、IPFS、L2等基础设施的API网关服务。  
 
-5. **[Ethers.js](https://docs.ethers.org)**  
-   - 精简的JavaScript Web3库，适合前端集成合约交互。  
+5. **[Ethers.js](https://docs.ethers.org)**  精简的JavaScript Web3库，适合前端集成合约交互。  
 
 ---
 
@@ -488,39 +424,29 @@
 
 🔍 **什么是安全审计**？智能合约部署后不可更改，安全审计通过第三方检查代码，找出漏洞与逻辑缺陷，避免资金被盗。
 
-1. **[CertiK](https://www.certik.com)**  
-   - 顶级智能合约审计机构，提供KYC、安全评分等服务。  
+1. **[CertiK](https://www.certik.com)**  顶级智能合约审计机构，提供KYC、安全评分等服务。  
 
-2. **[SlowMist](https://slowmist.com)**  
-   - 国内领先区块链安全公司，发布安全报告与黑客分析。  
+2. **[SlowMist](https://slowmist.com)**  国内领先区块链安全公司，发布安全报告与黑客分析。  
 
-3. **[Beosin](https://www.beosin.com)**  
-   - 提供合约审计、链上风控与安全培训。  
+3. **[Beosin](https://www.beosin.com)**  提供合约审计、链上风控与安全培训。  
 
-4. **[Immunefi](https://immunefi.com)**  
-   - Web3漏洞赏金平台，连接白帽与项目方。  
+4. **[Immunefi](https://immunefi.com)**  Web3漏洞赏金平台，连接白帽与项目方。  
 
-5. **[Revoke.cash](https://revoke.cash)**  
-   - 钱包授权检查与取消工具，防止钓鱼攻击。  
+5. **[Revoke.cash](https://revoke.cash)**  钱包授权检查与取消工具，防止钓鱼攻击。  
 
 ---
 
 ## 📚 学习材料
 
-1. **[CryptoZombies](https://cryptozombies.io)**  
-   - 通过游戏化学习Solidity合约开发，适合新手。  
+1. **[CryptoZombies](https://cryptozombies.io)**  通过游戏化学习Solidity合约开发，适合新手。  
 
-2. **[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)**  
-   - Andreas Antonopoulos的经典比特币技术读物，开源免费。  
+2. **[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)**  Andreas Antonopoulos的经典比特币技术读物，开源免费。  
 
-3. **[Web3 University](https://www.web3.university)**  
-   - 聚合Web3编程资源与教程，适合入门。  
+3. **[Web3 University](https://www.web3.university)**  聚合Web3编程资源与教程，适合入门。  
 
-4. **[Chainshot](https://www.chainshot.com)**  
-   - 交互式Solidity编程训练营，覆盖测试与安全。  
+4. **[Chainshot](https://www.chainshot.com)**  交互式Solidity编程训练营，覆盖测试与安全。  
 
-5. **[Ethernaut](https://ethernaut.openzeppelin.com)**  
-   - 智能合约安全挑战平台，由OpenZeppelin提供。  
+5. **[Ethernaut](https://ethernaut.openzeppelin.com)**  智能合约安全挑战平台，由OpenZeppelin提供。  
 
 ---
 
@@ -528,20 +454,15 @@
 
 🔍 **用途**：参与社区活动，获取项目动态、空投机会与技术进展，与开发者、KOL、投资机构交流，提升Web3社交资本。
 
-1. **[ETHGlobal](https://ethglobal.com)**  
-   - 以太坊社区主办的全球黑客松，汇聚开发者。  
+1. **[ETHGlobal](https://ethglobal.com)**  以太坊社区主办的全球黑客松，汇聚开发者。  
 
-2. **[Devcon](https://devcon.org)**  
-   - 以太坊基金会年度开发者大会。  
+2. **[Devcon](https://devcon.org)**  以太坊基金会年度开发者大会。  
 
-3. **[Web3CN Club (TG)](https://t.me/web3cnclub)**  
-   - 中文Web3技术与投资社群，资源丰富。  
+3. **[Web3CN Club (TG)](https://t.me/web3cnclub)**  中文Web3技术与投资社群，资源丰富。  
 
-4. **[Discord Web3 Hub](https://discord.com)**  
-   - 加入项目官方Discord，获取一手动态与空投。  
+4. **[Discord Web3 Hub](https://discord.com)**  加入项目官方Discord，获取一手动态与空投。  
 
-5. **[Crypto Twitter](https://twitter.com)**  
-   - 建议建立“技术/投资/项目方/空投”四类跟踪表单，动态更新。  
+5. **[Crypto Twitter](https://twitter.com)**  建议建立“技术/投资/项目方/空投”四类跟踪表单，动态更新。  
 
 ---
 
@@ -550,42 +471,30 @@
 🔍 **用途**：软件钱包适合日常交易与DApp交互；硬件钱包适合大额资产长期存储。
 
 ### 软件钱包
-1. **[TokenPocket](https://www.tokenpocket.pro/)**  
-   - 多链支持的移动与桌面钱包，提供交易与DApp浏览。  
+1. **[TokenPocket](https://www.tokenpocket.pro/)**  多链支持的移动与桌面钱包，提供交易与DApp浏览。  
 
-2. **[MetaMask](https://metamask.io/)**  
-   - 广泛使用的以太坊与ERC-20代币钱包，支持浏览器扩展与移动端。  
+2. **[MetaMask](https://metamask.io/)**  广泛使用的以太坊与ERC-20代币钱包，支持浏览器扩展与移动端。  
 
-3. **[imToken](https://www.token.im/)**  
-   - 多链钱包，支持资产管理与DApp浏览，适合新手。  
+3. **[imToken](https://www.token.im/)**  多链钱包，支持资产管理与DApp浏览，适合新手。  
 
-4. **[Trust Wallet](https://trustwallet.com/)**  
-   - 币安官方移动钱包，支持多币种，用户友好。  
+4. **[Trust Wallet](https://trustwallet.com/)**  币安官方移动钱包，支持多币种，用户友好。  
 
-5. **[Exodus](https://www.exodus.com/)**  
-   - 桌面与移动端钱包，美观界面，集成交易功能。  
+5. **[Exodus](https://www.exodus.com/)**  桌面与移动端钱包，美观界面，集成交易功能。  
 
-6. **[Atomic Wallet](https://atomicwallet.io/)**  
-   - 支持300+币种，提供原子交换与Staking功能。  
+6. **[Atomic Wallet](https://atomicwallet.io/)**  支持300+币种，提供原子交换与Staking功能。  
 
 ### 硬件钱包
-1. **[BITHD](https://bithd.com/)**  
-   - 便携式硬件钱包，专注冷存储。  
+1. **[BITHD](https://bithd.com/)**  便携式硬件钱包，专注冷存储。  
 
-2. **[OneKey](https://onekey.so/)**  
-   - 支持多币种，增强交易安全性。  
+2. **[OneKey](https://onekey.so/)**  支持多币种，增强交易安全性。  
 
-3. **[Ballet](https://www.balletcrypto.com/zh/)**  
-   - 实体硬件钱包，简洁易用，适合新手与礼物。  
+3. **[Ballet](https://www.balletcrypto.com/zh/)**  实体硬件钱包，简洁易用，适合新手与礼物。  
 
-4. **[Trezor](https://trezor.io/)**  
-   - 行业先驱，提供高安全性存储。  
+4. **[Trezor](https://trezor.io/)**  行业先驱，提供高安全性存储。  
 
-5. **[Ledger](https://www.ledger.com/)**  
-   - 知名品牌，以安全性与多币种支持闻名。  
+5. **[Ledger](https://www.ledger.com/)**  知名品牌，以安全性与多币种支持闻名。  
 
-6. **[SafePal](https://www.safepal.io/)**  
-   - 币安支持的硬件钱包，安全可靠。  
+6. **[SafePal](https://www.safepal.io/)**  币安支持的硬件钱包，安全可靠。  
 
 ⚠️ **提示**：备份助记词，切勿泄露；优先通过官方渠道购买硬件钱包。
 
@@ -593,47 +502,33 @@
 
 ## 💰 顶级投资机构
 
-1. **[币安实验室](https://labs.binance.com/)**  
-   - 币安投资与孵化部门，专注区块链创新项目。  
+1. **[币安实验室](https://labs.binance.com/)**  币安投资与孵化部门，专注区块链创新项目。  
 
-2. **[Coinbase Ventures](https://www.coinbase.com/ventures#our-investments)**  
-   - Coinbase风险投资部门，投资早期加密项目。  
+2. **[Coinbase Ventures](https://www.coinbase.com/ventures#our-investments)**  Coinbase风险投资部门，投资早期加密项目。  
 
-3. **[三箭资本](https://www.threearrowscap.com/select-investments/)**  
-   - 加密对冲基金，影响力广泛。  
+3. **[三箭资本](https://www.threearrowscap.com/select-investments/)**  加密对冲基金，影响力广泛。  
 
-4. **[A16z](https://a16z.com/portfolio/#crypto)**  
-   - 硅谷顶级风投，专注Web3协议与加密项目。  
+4. **[A16z](https://a16z.com/portfolio/#crypto)**  硅谷顶级风投，专注Web3协议与加密项目。  
 
-5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
-   - 量化交易与投资机构，由Sam Bankman-Fried创立。  
+5. **[Alameda Research](https://www.alameda-research.com/ventures)**  量化交易与投资机构，由Sam Bankman-Fried创立。  
 
-6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  
-   - 投资DeFi与区块链基础设施项目。  
+6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  投资DeFi与区块链基础设施项目。  
 
-7. **[Paradigm](https://www.paradigm.xyz/portfolio)**  
-   - 专注早期Web3协议，投资Uniswap、dYdX等。  
+7. **[Paradigm](https://www.paradigm.xyz/portfolio)**  专注早期Web3协议，投资Uniswap、dYdX等。  
 
-8. **[Pantera Capital](https://www.panteracapital.com/portfolio/)**  
-   - 老牌加密基金，覆盖比特币、DeFi、NFT等赛道。  
+8. **[Pantera Capital](https://www.panteracapital.com/portfolio/)**  老牌加密基金，覆盖比特币、DeFi、NFT等赛道。  
 
-9. **[Dragonfly Capital](https://www.dragonfly.xyz/)**  
-   - 连接东西方加密生态，投资StarkWare、1inch等。  
+9. **[Dragonfly Capital](https://www.dragonfly.xyz/)**  连接东西方加密生态，投资StarkWare、1inch等。  
 
-10. **[Delphi Digital](https://www.delphidigital.io/research)**  
-    - 研究驱动，参与协议设计，旗下有Delphi Labs孵化器。  
+10. **[Delphi Digital](https://www.delphidigital.io/research)**  研究驱动，参与协议设计，旗下有Delphi Labs孵化器。  
 
-11. **[Electric Capital](https://www.electriccapital.com/portfolio)**  
-    - 聚焦开发者生态，发布年度开发者报告。  
+11. **[Electric Capital](https://www.electriccapital.com/portfolio)**  聚焦开发者生态，发布年度开发者报告。  
 
-12. **[Hashed](https://www.hashed.com/)**  
-    - 韩国最大加密风投，专注Web3游戏与DeFi。  
+12. **[Hashed](https://www.hashed.com/)**  韩国最大加密风投，专注Web3游戏与DeFi。  
 
-13. **[Jump Crypto](https://jumpcrypto.com/)**  
-    - Jump Trading加密部门，投资与做市，深度参与Solana。  
+13. **[Jump Crypto](https://jumpcrypto.com/)**  Jump Trading加密部门，投资与做市，深度参与Solana。  
 
-14. **[Spartan Group](https://www.spartangroup.io/portfolio)**  
-    - 亚洲加密投行，投资StepN、dYdX等。  
+14. **[Spartan Group](https://www.spartangroup.io/portfolio)**  亚洲加密投行，投资StepN、dYdX等。  
 
 ---
 
