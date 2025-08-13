@@ -33,7 +33,6 @@
    - **福利**：使用邀请码 **github123** 享受永久手续费折扣。注册后可领取**数字货币盲盒**，随机获得热门币。  
    - **教程**：[欧易注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。支持C2C（微信/支付宝/银行卡）。  
    - **Web3钱包**：支持多链、一键创建、MPC技术提升安全性，集成DApp浏览器。  
-     <p align="center"><img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png" alt="欧易盲盒" width="310" height="300"></p>
 
 2. **[芝麻开门 Gate.io](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)**（[备用链接](https://www.gate.io/signup/VlEWUFlX?ref_type=103)）  
    - **为何选择？** 山寨币种类最多，适合埋伏新币。  
