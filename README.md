@@ -152,50 +152,35 @@
 
 🔍 **用途**：提供丰富的数据资源与分析工具，帮助用户做出明智的投资决策与市场分析。
 
-1. **[币coin](https://bcoin.info/)**  
-   - 提供合约、实盘市场数据、信息提醒与社区论坛，适合实时监控与交流。  
+1. **[币coin](https://bcoin.info/)**  提供合约、实盘市场数据、信息提醒与社区论坛，适合实时监控与交流。  
 
-2. **[Coinglass](https://www.coinglass.com/zh)**  
-   - 专注合约交易数据与分析，适合衍生品交易者。  
+2. **[Coinglass](https://www.coinglass.com/zh)**  专注合约交易数据与分析，适合衍生品交易者。  
 
-3. **[Aicoin](https://www.aicoin.com/)**  
-   - 提供K线工具、实时行情与财经资讯，适合技术分析。  
+3. **[Aicoin](https://www.aicoin.com/)**  提供K线工具、实时行情与财经资讯，适合技术分析。  
 
-4. **[TradingView](https://cn.tradingview.com/)**  
-   - 提供加密货币、股票、外汇等金融市场数据与图表工具，支持社区讨论。  
+4. **[TradingView](https://cn.tradingview.com/)**  提供加密货币、股票、外汇等金融市场数据与图表工具，支持社区讨论。  
 
-5. **[Glassnode](https://glassnode.com/)**  
-   - 付费高端链上数据平台，专注区块链数据与市场情绪分析。  
+5. **[Glassnode](https://glassnode.com/)**  付费高端链上数据平台，专注区块链数据与市场情绪分析。  
 
-6. **[Whale Alert](https://whale-alert.io/)**  
-   - 实时监控链上大额转账，提供交易警报，适合捕捉资金异动。  
+6. **[Whale Alert](https://whale-alert.io/)**  实时监控链上大额转账，提供交易警报，适合捕捉资金异动。  
 
-7. **[Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)**  
-   - 衡量加密市场恐惧与贪婪情绪，判断市场周期。  
+7. **[Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)**  衡量加密市场恐惧与贪婪情绪，判断市场周期。  
 
-8. **[KingData](https://kingdata.com)**  
-   - Web3一站式投资平台，提供市场数据、项目跟踪与投研工具。  
+8. **[KingData](https://kingdata.com)**  Web3一站式投资平台，提供市场数据、项目跟踪与投研工具。  
 
-9. **[DappRadar](https://dappradar.com)**  
-   - 追踪DeFi、NFT等DApp的使用情况与性能，提供投资组合工具。  
+9. **[DappRadar](https://dappradar.com)**  追踪DeFi、NFT等DApp的使用情况与性能，提供投资组合工具。  
 
-10. **[DexScreener](https://dexscreener.com)**  
-    - 专注去中心化交易所（DEX）实时交易数据与流动性监控。  
+10. **[DexScreener](https://dexscreener.com)**  专注去中心化交易所（DEX）实时交易数据与流动性监控。  
 
-11. **[Dune Analytics](https://dune.com)**  
-    - 使用SQL查询链上数据，支持可视化仪表盘构建与分享。  
+11. **[Dune Analytics](https://dune.com)**  使用SQL查询链上数据，支持可视化仪表盘构建与分享。  
 
-12. **[Nansen](https://www.nansen.ai)**  
-    - 提供地址标签、巨鲸追踪与Token智能分析，适合机构级分析。  
+12. **[Nansen](https://www.nansen.ai)**  提供地址标签、巨鲸追踪与Token智能分析，适合机构级分析。  
 
-13. **[Token Terminal](https://tokenterminal.com)**  
-    - 类似“财报”的Web3项目数据平台，聚焦商业模型分析。  
+13. **[Token Terminal](https://tokenterminal.com)**  类似“财报”的Web3项目数据平台，聚焦商业模型分析。  
 
-14. **[The Graph](https://thegraph.com)**  
-    - 去中心化数据索引协议，适合链上应用构建数据查询接口。  
+14. **[The Graph](https://thegraph.com)**  去中心化数据索引协议，适合链上应用构建数据查询接口。  
 
-15. **[Covalent](https://www.covalenthq.com)**  
-    - 多链数据API提供者，方便开发者快速集成链上查询。
+15. **[Covalent](https://www.covalenthq.com)**  多链数据API提供者，方便开发者快速集成链上查询。
 
 ---
 
@@ -203,20 +188,15 @@
 
 🔍 **用途**：收录主流Web3空投信息与交互任务平台，帮助用户获取早期代币奖励、参与项目激励、积累链上声誉，适用于撸空投、投研分析与公会协作。
 
-1. **[Galxe](https://galxe.com/)**  
-   - 最大的Web3交互任务平台，任务涵盖链上操作、社交任务、NFT领取等，适合刷交互积累经验与声誉。  
+1. **[Galxe](https://galxe.com/)**   最大的Web3交互任务平台，任务涵盖链上操作、社交任务、NFT领取等，适合刷交互积累经验与声誉。  
 
-2. **[Layer3](https://layer3.xyz/)**  
-   - 通过任务闯关与生态打卡获取奖励，覆盖Arbitrum、zkSync、Optimism等生态，UI美观，适合新手入门。  
+2. **[Layer3](https://layer3.xyz/)**   通过任务闯关与生态打卡获取奖励，覆盖Arbitrum、zkSync、Optimism等生态，UI美观，适合新手入门。  
 
-3. **[Zealy（原Crew3）](https://zealy.io/)**  
-   - DAO与Web3社区成长任务平台，支持积分、榜单与公会运营，适合社群管理。  
+3. **[Zealy（原Crew3）](https://zealy.io/)**  DAO与Web3社区成长任务平台，支持积分、榜单与公会运营，适合社群管理。  
 
-4. **[Dework](https://www.dework.xyz/)**  
-   - Web3项目协作与赏金任务平台，适合技术、设计、运营人才接单赚取代币，偏职业导向。  
+4. **[Dework](https://www.dework.xyz/)**  Web3项目协作与赏金任务平台，适合技术、设计、运营人才接单赚取代币，偏职业导向。  
 
-5. **[Airdrops.io](https://airdrops.io/)**  
-   - 汇总已上线或即将开启的空投项目，标注任务参与要求，适合前期筛选与资格排查。  
+5. **[Airdrops.io](https://airdrops.io/)**  汇总已上线或即将开启的空投项目，标注任务参与要求，适合前期筛选与资格排查。  
 
 ⚠️ **提示**：参与空投需谨慎，优先选择官方渠道，警惕钓鱼链接与诈骗。
 
@@ -229,33 +209,24 @@
 - **RWA（Real World Assets）**：现实世界资产（如债券、房产、应收账款）的链上代币化，推动传统金融与DeFi融合，构建“链上债市”与“链上收益”。
 
 ### 稳定币代表平台
-1. **[MakerDAO / DAI](https://makerdao.com/)**  
-   - 去中心化稳定币DAI，采用超额抵押机制维持价格锚定，是最早的稳定币之一，部分抵押资产已包括RWA。  
+1. **[MakerDAO / DAI](https://makerdao.com/)**  去中心化稳定币DAI，采用超额抵押机制维持价格锚定，是最早的稳定币之一，部分抵押资产已包括RWA。  
 
-2. **[Liquity / LUSD](https://www.liquity.org/)**  
-   - 无治理的去中心化稳定币系统，支持ETH抵押发行LUSD，无利息，仅一次性借款费用，流通性良好。  
+2. **[Liquity / LUSD](https://www.liquity.org/)**  无治理的去中心化稳定币系统，支持ETH抵押发行LUSD，无利息，仅一次性借款费用，流通性良好。  
 
-3. **[Frax Finance](https://frax.finance/)**  
-   - 部分抵押+算法稳定，支持FraxLend、FraxBond、sFRAX等衍生产品，正向全抵押过渡。  
+3. **[Frax Finance](https://frax.finance/)**  部分抵押+算法稳定，支持FraxLend、FraxBond、sFRAX等衍生产品，正向全抵押过渡。  
 
-4. **[Curve crvUSD](https://curve.fi/)**  
-   - Curve推出的原生稳定币，结合自动清算与AMM，为DeFi提供低波动性流动资产。  
+4. **[Curve crvUSD](https://curve.fi/)**  Curve推出的原生稳定币，结合自动清算与AMM，为DeFi提供低波动性流动资产。  
 
 ### RWA代币化平台
-5. **[Ondo Finance](https://ondo.finance/)**  
-   - 提供美国国债、短期债券等代币化产品（如OUSG、USDY），适合稳健派DeFi用户。  
+5. **[Ondo Finance](https://ondo.finance/)**  提供美国国债、短期债券等代币化产品（如OUSG、USDY），适合稳健派DeFi用户。  
 
-6. **[Centrifuge](https://centrifuge.io/)**  
-   - 聚焦企业融资，将发票、房地产等资产通过NFT表示，用于链上借贷，是MakerDAO的RWA合作方之一。  
+6. **[Centrifuge](https://centrifuge.io/)**  聚焦企业融资，将发票、房地产等资产通过NFT表示，用于链上借贷，是MakerDAO的RWA合作方之一。  
 
-7. **[Maple Finance](https://maple.finance/)**  
-   - 链上信贷平台，为机构与加密企业提供无抵押贷款，借贷行为透明，支持代币化债务池。  
+7. **[Maple Finance](https://maple.finance/)**  链上信贷平台，为机构与加密企业提供无抵押贷款，借贷行为透明，支持代币化债务池。  
 
-8. **[Goldfinch Finance](https://goldfinch.finance/)**  
-   - 提供发展中国家企业的链上信贷，结合社区担保机制，实现无抵押贷款。  
+8. **[Goldfinch Finance](https://goldfinch.finance/)**  提供发展中国家企业的链上信贷，结合社区担保机制，实现无抵押贷款。  
 
-9. **[TrueFi](https://truefi.io/)**  
-   - 无抵押链上借贷平台，强调信用评估与透明流程，支持机构放贷与RWA资产整合。  
+9. **[TrueFi](https://truefi.io/)**  无抵押链上借贷平台，强调信用评估与透明流程，支持机构放贷与RWA资产整合。  
 
 ---
 
@@ -263,83 +234,59 @@
 
 🔍 **用途**：通过追踪大额持仓者与交易行为，洞察市场情绪、买卖压力与流动性变化，预测市场动向。
 
-1. **[BitInfoCharts](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html)**  
-   - 提供比特币前100名富豪地址列表，展示余额、首次/最后接收日期与总接收量。  
+1. **[BitInfoCharts](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html)**  提供比特币前100名富豪地址列表，展示余额、首次/最后接收日期与总接收量。  
 
-2. **[WhaleStats](https://www.whalestats.com/)**  
-   - 专注以太坊前1000名钱包，分析余额、交易与代币持仓。  
+2. **[WhaleStats](https://www.whalestats.com/)**  专注以太坊前1000名钱包，分析余额、交易与代币持仓。  
 
-3. **[NFTGo](https://nftgo.io)**  
-   - NFT市场巨鲸追踪工具，提供交易量、持有量与市场趋势分析。  
+3. **[NFTGo](https://nftgo.io)**  NFT市场巨鲸追踪工具，提供交易量、持有量与市场趋势分析。  
 
-4. **[Arkham Intelligence](https://platform.arkhamintelligence.com/)**  
-   - 提供链上钱包实名标签与资金流分析，支持BTC、ETH、Solana、Base等，适合KOL持仓跟踪。  
+4. **[Arkham Intelligence](https://platform.arkhamintelligence.com/)**  提供链上钱包实名标签与资金流分析，支持BTC、ETH、Solana、Base等，适合KOL持仓跟踪。  
 
-5. **[Nansen Portfolio](https://pro.nansen.ai/portfolio)**  
-   - 高级巨鲸分析平台，支持地址标签、资金流趋势与行为分类（交易员、公会、基金等）。  
+5. **[Nansen Portfolio](https://pro.nansen.ai/portfolio)**  高级巨鲸分析平台，支持地址标签、资金流趋势与行为分类（交易员、公会、基金等）。  
 
-6. **[0xScope](https://0xscope.com/)**  
-   - Web3图数据库工具，支持钱包行为画像、地址关联追踪与项目资金流分析，适合反洗钱与项目排查。  
+6. **[0xScope](https://0xscope.com/)**  Web3图数据库工具，支持钱包行为画像、地址关联追踪与项目资金流分析，适合反洗钱与项目排查。  
 
-7. **[DeBank](https://debank.com/rank)**  
-   - 提供巨鲸排行榜、代币排行与交互活跃用户数据，适合跟踪大户与空投用户画像。  
+7. **[DeBank](https://debank.com/rank)**  提供巨鲸排行榜、代币排行与交互活跃用户数据，适合跟踪大户与空投用户画像。  
 
-8. **[Lookonchain](https://www.lookonchain.com/)**  
-   - 社交媒体分析平台，专注链上热点事件与巨鲸动向，捕捉“新项目提前买入”与KOL交易。  
+8. **[Lookonchain](https://www.lookonchain.com/)**  社交媒体分析平台，专注链上热点事件与巨鲸动向，捕捉“新项目提前买入”与KOL交易。  
 
-9. **[Whale Alert](https://whale-alert.io/)**  
-   - 实时追踪比特币、以太坊、稳定币等大额交易（如交易所转账、跨链桥转移），判断资金异动。  
+9. **[Whale Alert](https://whale-alert.io/)**  实时追踪比特币、以太坊、稳定币等大额交易（如交易所转账、跨链桥转移），判断资金异动。  
 
-10. **[TokenUnlocks](https://token.unlocks.app/)**  
-    - 可视化展示项目代币解锁进度与巨鲸释放时间，间接判断抛压风险。  
+10. **[TokenUnlocks](https://token.unlocks.app/)**  可视化展示项目代币解锁进度与巨鲸释放时间，间接判断抛压风险。  
 
 ---
 
 ## 🗞️ 新闻媒体
 
 ### 中文
-1. **[巴比特](https://www.8btc.com/)**  
-   - 中国最早的区块链信息平台，提供新闻、深度文章、市场分析与技术案例，社区影响力强。  
+1. **[巴比特](https://www.8btc.com/)**  中国最早的区块链信息平台，提供新闻、深度文章、市场分析与技术案例，社区影响力强。  
 
-2. **[金色财经](https://www.jinse.com/)**  
-   - 覆盖加密货币、区块链与金融科技，提供即时新闻、项目评测与教育培训。  
+2. **[金色财经](https://www.jinse.com/)**  覆盖加密货币、区块链与金融科技，提供即时新闻、项目评测与教育培训。  
 
-3. **[币世界](https://www.bishijie.net/)**  
-   - 提供实时新闻、项目信息与行业分析，适合快速浏览。  
+3. **[币世界](https://www.bishijie.net/)**  提供实时新闻、项目信息与行业分析，适合快速浏览。  
 
-4. **[Odaily](https://www.odaily.news/)**  
-   - 专注区块链与加密货币新闻，提供深度分析、项目信息与事件跟踪。  
+4. **[Odaily](https://www.odaily.news/)**  专注区块链与加密货币新闻，提供深度分析、项目信息与事件跟踪。  
 
-5. **[链闻](https://www.panewslab.com/zh/index.html)**  
-   - 聚焦区块链行业新闻，提供市场分析与深度报告。  
+5. **[链闻](https://www.panewslab.com/zh/index.html)**  聚焦区块链行业新闻，提供市场分析与深度报告。  
 
-6. **[区块律动](https://www.theblockbeats.info/)**  
-   - 提供新闻、技术分析与项目评估，内容高质量。  
+6. **[区块律动](https://www.theblockbeats.info/)**  提供新闻、技术分析与项目评估，内容高质量。  
 
-7. **[火星财经](https://marsbit.co/)**  
-   - 提供新闻、深度报道与市场分析，推动区块链普及。  
+7. **[火星财经](https://marsbit.co/)**  提供新闻、深度报道与市场分析，推动区块链普及。  
 
 ### 英文
-1. **[Bitcoin Magazine](https://bitcoinmagazine.com/)**  
-   - 比特币社区老牌媒体，专注比特币新闻、分析与评论。  
+1. **[Bitcoin Magazine](https://bitcoinmagazine.com/)**  比特币社区老牌媒体，专注比特币新闻、分析与评论。  
 
-2. **[Decrypt](https://decrypt.co/)**  
-   - 提供区块链与加密货币新闻、特征报道与市场分析。  
+2. **[Decrypt](https://decrypt.co/)**  提供区块链与加密货币新闻、特征报道与市场分析。  
 
-3. **[The Block](https://www.theblockcrypto.com/)**  
-   - 涵盖加密货币与金融科技的深度新闻与研究，适合专业投资者。  
+3. **[The Block](https://www.theblockcrypto.com/)**  涵盖加密货币与金融科技的深度新闻与研究，适合专业投资者。  
 
-4. **[Blockonomi](https://blockonomi.com/)**  
-   - 提供加密货币指南、ICO分析与市场动态。  
+4. **[Blockonomi](https://blockonomi.com/)**  提供加密货币指南、ICO分析与市场动态。  
 
-5. **[CryptoSlate](https://cryptoslate.com/)**  
-   - 整合新闻、ICO追踪与公司数据库，提供准确信息。  
+5. **[CryptoSlate](https://cryptoslate.com/)**  整合新闻、ICO追踪与公司数据库，提供准确信息。  
 
-6. **[Coindesk](https://www.coindesk.com/)**  
-   - 全球领先区块链媒体，提供新闻、研究与行业事件。  
+6. **[Coindesk](https://www.coindesk.com/)**  全球领先区块链媒体，提供新闻、研究与行业事件。  
 
-7. **[Cointelegraph](https://cointelegraph.com/)**  
-   - 自2013年起提供前沿新闻、专家意见与趋势分析。  
+7. **[Cointelegraph](https://cointelegraph.com/)**  自2013年起提供前沿新闻、专家意见与趋势分析。  
 
 ---
 
@@ -354,26 +301,19 @@
 - **虚拟地产**：元宇宙中的土地与资产交易。  
 - **身份与证书**：证明身份、教育证书或活动参与权。  
 
-1. **[Etherscan NFT Tracker](https://etherscan.io/nft)**  
-   - 查看以太坊链上NFT交易与铸造记录。  
+1. **[Etherscan NFT Tracker](https://etherscan.io/nft)**  查看以太坊链上NFT交易与铸造记录。  
 
-2. **[NonFungible.com](https://nonfungible.com/)**  
-   - 提供NFT市场分析、交易数据与趋势，理解生态与价格动态。  
+2. **[NonFungible.com](https://nonfungible.com/)**  提供NFT市场分析、交易数据与趋势，理解生态与价格动态。  
 
-3. **[NFT Stats](https://nft-stats.com/)**  
-   - 提供NFT集合销售统计、排名与趋势，挖掘热门项目。  
+3. **[NFT Stats](https://nft-stats.com/)**  提供NFT集合销售统计、排名与趋势，挖掘热门项目。  
 
-4. **[Mintable](https://mintable.app/)**  
-   - NFT创建与交易平台，支持多链，操作简便。  
+4. **[Mintable](https://mintable.app/)**  NFT创建与交易平台，支持多链，操作简便。  
 
-5. **[Foundation](https://foundation.app/)**  
-   - 专注高质量艺术NFT的拍卖与销售平台。  
+5. **[Foundation](https://foundation.app/)**  专注高质量艺术NFT的拍卖与销售平台。  
 
-6. **[Zora](https://zora.co/)**  
-   - 去中心化NFT市场与协议，赋能创作者。  
+6. **[Zora](https://zora.co/)**  去中心化NFT市场与协议，赋能创作者。  
 
-7. **[Showtime](https://tryshowtime.com/)**  
-   - NFT社交平台，支持展示与收藏家/艺术家互动。  
+7. **[Showtime](https://tryshowtime.com/)**  NFT社交平台，支持展示与收藏家/艺术家互动。  
 
 ---
 
