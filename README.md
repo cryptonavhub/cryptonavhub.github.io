@@ -48,8 +48,9 @@
    - **特点**：山寨币数量最多，适合埋伏新币，许多潜力币在上币安、欧易前会先上芝麻，诞生过多个百倍、千倍币。  
    - **福利**：邀请码 **VlEWUFlX**，永久减免手续费；注册后领取数字货币盲盒。  
    - **推荐场景**：适合现货交易与早期项目投资。
+   
 
-3. **[币安 Binance](https://accounts.marketwebb.ac/register?ref=25203322)**（[备用链接（需翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)）  
+3. **[币安 Binance](https://www.maxweb.mobi/referral/earn-together/refer-in-hotsummer/claim?hl=zh-CN&ref=GRO_20338_RATCX)**（[备用链接（需翻墙）](https://accounts.binance.com/zh-CN/register?ref=GRO_20338_RATCX)）  
    - **特点**：全球交易量第一，币种丰富，安全性高，适合中高级用户。  
    - **福利**：邀请码 **25203322**，永久减免手续费。  
    - **教程**：[币安注册与KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)  
